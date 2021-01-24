@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+html, body{
+	height: 100%;
+	width: 100%;
+	background-image: url(a.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: new time roman;
+}
+h1{
+	font-size: 50px;
+	color: black;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+
+#login{
+	background: rgba(255,255,255,0.8);
+	margin-top: 156px;
+	-webkit-box-shadow:-5px 2px 62px 8px rgba(0,0,0,0.75);
+	-moz-box-shadow:-5px 2px 62px 8px rgba(0,0,0,0.75);
+	box-shadow:-5px 2px 62px 8px rgba(0,0,0,0.75);
+}
+#user{
+	font-size: 15px;
+	color: black;
+}
+#pass{
+	font-size: 15px;
+	color: black;s
+}
+/*#buttsign{
+	margin-top: 20px;
+}*/
+.label{
+	font-size: 20px;
+	font-weight: normal;
+}
+.input-group{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.input-group-addon{
+	background:transparent;
+	border-radius: 0px;
+	border:0px;
+	border-bottom: 1px solid black;
+	font-size: 50px;
+	color: black;
+}
+.form-control{
+	background: transparent;
+	border-radius: 0px;
+	border:0px
+	border-bottom: 1px solid black;
+	padding: 15px;
+	color: black;
+	font-size: 21px;
+}
+
+
+
+

@@ -1,0 +1,32 @@
+html, body{
+	height: 100;
+	width: 100;
+}
+.navbar{
+	background-color: #2ed573;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand{
+	min-height: 55px;
+	padding: 0 15px 2px;
+}
+.navbar-default .navbar-nav li a{
+	color: #D5D5D5;
+} 
+#home {
+	background: url('image/a.jpg');
+ 	display: table;
+ 	height: 100%;
+ 	position: relative;
+ 	width: 100%;
+ 	background-size: cover;
+ 	
+ 	
+}
+.landing-text {
+	z-index: 100;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
